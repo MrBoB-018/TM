@@ -2,6 +2,7 @@
 This video demonstrates the core features of the Task Management System.
 
 What’s in the video?
+---------------------
 Auth Flow: User registration and secure login using JWT.
 
 Task CRUD: Creating, editing, and deleting tasks in real-time.
